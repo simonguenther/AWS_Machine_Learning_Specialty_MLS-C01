@@ -1,6 +1,6 @@
 # AWS Machine Learning Speciality Certification (MLS-C01)
 
-Passed the MLS-C01 certification recently with 941/1000. There is not much detailed info on the exam compared to other popular AWS certifications, so I want to give as detailed information as possible. Everybody who is looking into this certification will have a better idea what he can expect from the exam.
+Passed the MLS-C01 certification in July 2020 with 941/1000. There is not much detailed info on the exam compared to other popular AWS certifications, so I want to give as detailed information as possible. Everybody who is looking into this certification will have a better idea what he can expect from the exam.
 
 There is no gold standard for preparing for MLS-C01. Compared to other popular certifications there are only very few resources to be used aside from Amazon's official papers and videos (which are very good!)
 
