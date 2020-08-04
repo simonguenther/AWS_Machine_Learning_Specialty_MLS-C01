@@ -92,6 +92,6 @@ generic question
 
 The range of level of detail across the questions is a lot wider in MLS-C01. There can be an ETL question were answers rely on knowing supported input/output filetypes of various AWS Services. Other questions have very broad answers like "use kinesis and store it in s3".
 
----
+## What you should do to prepare for the certification:
 
 If you are going for this certification I encourage you to spend a lot of time in SageMaker itself. Do not just click "Run all cells" in a example notebook. Built models yourself, launch endpoints, find other ways to deploy the same stuff (by using docker containers f.e.). Have as much hands-on experience as possible!
