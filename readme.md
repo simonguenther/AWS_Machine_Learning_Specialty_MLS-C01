@@ -4,15 +4,15 @@ Passed the MLS-C01 certification in July 2020 with 941/1000. There is not much d
 
 There is no gold standard for preparing for MLS-C01. Compared to other popular certifications there are only very few resources to be used aside from Amazon's official papers and videos (which are very good!)
 
-I made use of free trials on LinuxAcademy and ACloudGuru to go over their MLS-C01 preparation course. I'd estimate both courses are overlapping for at least 80% of the topics. Most important takeaway from those two courses: Neither of them will get you the certification. The will give a good overview of topics, but they just scratch the surface and you will need to go much deeper into almost all topics in order to have a shot at passing the certification. Don't be fooled by the practice exams at the end! The questions are not as detailed as the real questions will be.
+I made use of free trials on LinuxAcademy and ACloudGuru to go over their MLS-C01 preparation course. I'd estimate both courses are overlapping for at least 80% of the topics. Most important takeaway from those two courses: Neither of them will get you the certification. Both give a good overview of topics, but they just scratch the surface and you will need to go much deeper into almost all topics in order to have a shot at passing the certification. Don't be fooled by the practice exams at the end! The questions are not as detailed as the real questions will be.
 
 ## What I already knew:
 
 To put everything what I am going to say about the exam into perspective, here is the stuff that I already knew before going after this certification:
 
-- I have been dabbling in Data Engineering/Data Science for a couple years as an autodidact. At the beginning of the year I decided to consolidate my knowledge by participating in a 3-month fulltime Data Science-bootcamp at [neuefische.de](http://neuefische.de) which consolidated and broadend my knowledge. This came in really handy for some questions in the exam.
-- Already have Amazon's Cloud Solutions Architect Associate (SAA-C02) under my belt. This also helps for dismissing answers in AWS Services related questions.
-- 15+ years experience with various programming languages, database systems, developing patterns and IT best practices.
+- I have been dabbling in Data Engineering/Data Science for a couple years as an autodidact. At the beginning of the year I decided to participate in a 3-month fulltime Data Science-bootcamp at [neuefische.de](http://neuefische.de) which consolidated and broadend my knowledge. 
+- Already have Amazon's Cloud Solutions Architect Associate (SAA-C02) under my belt. This helps a lot when dismissing answers in AWS Services related questions.
+- 15+ years experience with various programming languages, database systems, development patterns and IT best practices.
 
 ## What I used as preparation for the exam:
 
